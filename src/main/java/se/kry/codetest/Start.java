@@ -1,6 +1,7 @@
 package se.kry.codetest;
 
 import io.vertx.core.Vertx;
+import se.kry.codetest.infrastructure.verticle.MainVerticle;
 
 public class Start {
 
